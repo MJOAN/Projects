@@ -46,14 +46,3 @@ In conclusion, the ground truth dataset prepared includes a success column of 0 
 ### References:
     1. Sharda, R., Dursun, Delen, 2006, "Predicting box office success of motion pictures with neural networks, Expert Systems with Applications 30 243-254, Retrieved from: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.85.679&rep=rep1&type=pdf
     2. Vitelli, Matt, 2015, "Predicting Box Office Revenue for Movies", Stanford University, CS224w, Retrieved from: http://snap.stanford.edu/class/cs224w-2015/projects_2015/Predicting_Box_Office_Revenue_for_Movies.pdf
-<<<<<<< HEAD
-=======
-
-
-
-
-   
-    
-
-    
->>>>>>> 2c5f0f7e78d02e42e6dababb6e0cd8eb1994d4eb
